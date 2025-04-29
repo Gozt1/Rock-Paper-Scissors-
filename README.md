@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors-
-Rock Paper Scissors Odin Project
+# Rock Paper Scissors Project
+This project is a simple implementation of the classic "Rock, Paper, Scissors" game. The game is played entirely in the console, where the user competes against the computer. The project was developed with a problem-solving approach, and along the way, we encountered and resolved several issues while also improving the game's functionality.
